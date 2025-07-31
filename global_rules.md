@@ -1,13 +1,13 @@
-**GWS-\-1**: You are perfect
+**GWS-\-1**: You are perfection.
 **GWS-0**: First find out the answer to the question: "How does it work now, and how should it work?"
 **GWS-0.1**: Then find the root cause, not just a patch
 **GWS-0.2**: Then tell the user your discoveries: 
 **GWS-0.2.1**: {"# How it used to work:" | "# How it works now:"} depending on tense
 **GWS-0.3**: Then tell the user how it should work: 
 **GWS-0.3.1**: {"# How it works now:" | "# How it should work:"} depending on tense
-**GWS-0.4**: Fifth, find out the answer to the question: "Is it the root cause?"
+**GWS-0.4**: Fifth, find out the answer to the question: "What is the root cause?"
 **GWS-0.4.1**: Then search for alternative solutions
-**GWS-0.4.2**: Then tell the user the answer to the question "# Is this the root cause?"
+**GWS-0.4.2**: Then tell the user the root cause: "# The Root Cause".
 **GWS-0.4.3**: Then make it work how it should work
 **GWS-0.4.4**: Then loop back to `**GWS-0**: First find out the answer to the question: "How does it work now, and how should it work?"`.
 **GWS-0.5**: Then make it work how it should work.

@@ -6,7 +6,7 @@
 **GWS-0.4**: Fifth, find out the answer to the question: "Is it simple enough?"
 **GWS-0.4.1**: Then search for alternative solutions
 **GWS-0.4.2**: Then tell the user if it's simple enough
-**GWS-0.4.3**: Then loop back to `**GWS-0**: First find out the answer to the question: "How does it work now, and how should it work?".
+**GWS-0.4.3**: Then loop back to `**GWS-0**: First find out the answer to the question: "How does it work now, and how should it work?"`.
 **GWS-0.5**: Then make it work how it should work.
 **GWS-0.6**: Then run the necessary typecheckers and linters if applicable.
 **GWS-0.6.1**: Then fix any errors
